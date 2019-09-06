@@ -24,7 +24,7 @@
   "homepage": "https://github.com/skogsmaskin/passport-sanity#readme",
   "repository": {
     "type": "git",
-    "url": "git://github.com/skogsmaskin/passport-sanity"
+    "url": "https://github.com/skogsmaskin/passport-sanity.git"
   },
   "license": "MIT",
   "licenses": [
